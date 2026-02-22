@@ -1,42 +1,36 @@
-Version 1.0.0
+<p align="center">
+  <img src="tcvirtual.png" />
+</p>
+This plugin allows simhub to simulate the 10 differents types of data when you're on the track.
 
-First release of the LMU Calculated Data plugin for SimHub.
-🎯 Features
+## 🎯 Features
 
-Traction Control
+- Traction Control
+  - TC level
+  - TC Slip level
+  - Power cut Level
 
-    TC level
-    TC Slip level
-    Power cut Level
+- Engine Management
+  - Engine map (Map +/-)
+  - Energy recovery (Regen +/-)
+  - Engine mixture (Mix +/-)
 
-Engine Management
+- Vehicle Dynamics
+  - ABS management
+  - Brake migration front/rear
+  - Anti-roll bar front/rear
 
-    Engine map (Map +/-)
-    Energy recovery (Regen +/-)
-    Engine mixture (Mix +/-)
+## 📥 Installation
 
-Vehicle Dynamics
+1. Download LMU_Calculated_Data_v1.0.0.zip
+2. Extract LMU_CalculatedData.dll
+3. Copy the file to SimHub/ folder
+4. Restart SimHub
 
-    ABS management
-    Brake migration front/rear
-    Anti-roll bar front/rear
-
-📥 Installation
-
-    Download LMU_Calculated_Data_v1.0.0.zip
-    Extract LMU_CalculatedData.dll
-    Copy the file to SimHub/ folder
-    Restart SimHub
-
-🔧 Configuration
+## 🔧 Configuration
 
 Controls will automatically appear in SimHub interface. You can bind them in the control settings.
-📋 Release Notes
 
-    Initial plugin release
-    Compatible with games using LMU data
-    French interface (SLoc)
-
-🐛 Support
+## 🐛 Support
 
 For any issue or suggestion, please create an issue on GitHub.
