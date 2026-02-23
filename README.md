@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tcvirtual.git.png" />
+  <img src="tcvirtual.GIT.png" />
 </p>
 This plugin allows simhub to simulate the 10 differents types of data when you're on the track.
 
