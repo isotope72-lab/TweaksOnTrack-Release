@@ -29,10 +29,9 @@ This plugin allows simhub to simulate the 10 differents types of data when you'r
 
 ## 🔧 Configuration
 
- - Controls will automatically appear in SimHub interface. You can bind them in the control settings.
- - Check the User Manual page to configure them.
- - All Data for you dashboard appears under [LMU_CalculatedDated] on SimHub
-
+ - The commands will automatically appear in the SimHub interface. You can associate them in the command settings.
+ - See the user manual page to configure them.
+ - All data for your dashboard appears under [LMU_CalculatedData] in SimHub.
 ## 🐛 Support
 
 For any issue or suggestion, please create an issue on GitHub.
