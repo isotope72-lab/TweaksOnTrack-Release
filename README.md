@@ -24,12 +24,14 @@ This plugin allows simhub to simulate the 10 differents types of data when you'r
 
 1. Download LMU_Calculated_Data_v1.0.0.zip
 2. Extract LMU_CalculatedData.dll
-3. Copy the file to SimHub/ folder
+3. Copy the DLL file and the Languages folder to SimHub/ folder
 4. Restart SimHub
 
 ## 🔧 Configuration
 
-Controls will automatically appear in SimHub interface. You can bind them in the control settings.
+ - Controls will automatically appear in SimHub interface. You can bind them in the control settings.
+ - Check the User Manual page to configure them.
+ - All Data for you dashboard appears under [LMU_CalculatedDated] on SimHub
 
 ## 🐛 Support
 
