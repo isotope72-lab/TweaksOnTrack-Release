@@ -13,7 +13,7 @@
   
 </p>
 
-This plugin allows simhub to simulate the 10 differents types of data for Le Mans Ultimatewhen you're on the track.
+This plugin allows simhub to simulate the 10 differents types of data for Le Mans Ultimate when you're on the track.
 
 ## 🎯 Features
 
