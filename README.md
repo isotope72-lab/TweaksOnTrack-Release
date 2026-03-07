@@ -1,4 +1,4 @@
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="TweaksOnTrack_icon_white.png">
   <source media="(prefers-color-scheme: light)" srcset="TweaksOnTrack_icon_black.png">
   <img src="TweaksOnTrack_icon_black.png" alt="Tweaks On Track icon">
