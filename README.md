@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="TweaksOnTrack_icon-2.png" />
+</p>
+
+<p align="center">
   <img src="Tweaks_On_Track_Git_hub.png" />
 </p>
 This plugin allows simhub to simulate the 10 differents types of data when you're on the track.
