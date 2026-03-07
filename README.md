@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" />
+  <img src="TweaksOnTrack_icon-2.png" />
 </p>
 
 <p align="center">
