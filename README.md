@@ -3,9 +3,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Tweaks_On_Track_Git_hub_white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="Tweaks_On_Track_Git_hub_black.svg">
-  <img src="Tweaks_On_Track_Git_hub_black.svg" alt="Tweaks On Track Logo">
+  <source media="(prefers-color-scheme: dark)" srcset="Tweaks_On_Track_Git_hub_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="Tweaks_On_Track_Git_hub_black.png">
+  <img src="Tweaks_On_Track_Git_hub_black.png" alt="Tweaks On Track Logo">
 </picture>
 This plugin allows simhub to simulate the 10 differents types of data when you're on the track.
 
