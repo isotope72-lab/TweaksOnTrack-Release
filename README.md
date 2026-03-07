@@ -35,3 +35,8 @@ This plugin allows simhub to simulate the 10 differents types of data when you'r
 ## 🐛 Support
 
 For any issue or suggestion, please create an issue on GitHub.
+
+
+## 🐛 Know Issues
+ -The values are not synchronised in coop mode. I am working on finding a solution to this issue. You can manually resynchronise by going to the maximum or minimum value in the game. Sorry for the inconvenience.
+ 
