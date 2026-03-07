@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Tweaks_On_Track_icon_white.png">
-  <source media="(prefers-color-scheme: light)" srcset="Tweaks_On_Track_icon_black.png">
-  <img src="Tweaks_On_Track_icon_black.png" alt="Tweaks On Track icon">
+  <source media="(prefers-color-scheme: dark)" srcset="TweaksOnTrack_icon_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="TweaksOnTrack_icon_black.png">
+  <img src="TweaksOnTrack_icon_black.png" alt="Tweaks On Track icon">
 </picture>
 
 <picture>
