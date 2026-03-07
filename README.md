@@ -2,14 +2,21 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="TweaksOnTrack_icon_white.png">
     <source media="(prefers-color-scheme: light)" srcset="TweaksOnTrack_icon_black.png">
-    <img src="TweaksOnTrack_icon_black.png" alt="Tweaks On Track icon">
+    <img src="TweaksOnTrack_icon_black.png" alt="Icon" width="112" height="112" align="center">
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Tweaks_On_Track_Git_hub_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="TweaksOnTrack_icon_black.png">
+    <img src="TweaksOnTrack_icon_black.png" alt="Logo" height="172" align="center">
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="TweaksOnTrack_icon_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="TweaksOnTrack_icon_black.png">
+    <img src="TweaksOnTrack_icon_black.png" alt="Icon" width="112" height="112" align="center">
   </picture>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Tweaks_On_Track_Git_hub_white.png">
-  <source media="(prefers-color-scheme: light)" srcset="Tweaks_On_Track_Git_hub_black.png">
-  <img src="Tweaks_On_Track_Git_hub_black.png" alt="Tweaks On Track Logo">
-</picture>
 
 This plugin allows simhub to simulate the 10 differents types of data when you're on the track.
 
@@ -48,5 +55,5 @@ For any issue or suggestion, please create an issue on GitHub.
 
 
 ## 🐛 Know Issues
-  -The values are not synchronised in coop mode. I am working on finding a solution to this issue. You can manually resynchronise by going to the maximum or minimum value in the game. Sorry for the inconvenience.
- 
+ - 🚧 **Coop Mode** : The values are not synchronised in coop mode. I am working on finding a solution to this issue. You can manually resynchronise by going to the maximum or minimum value in the game. Sorry for the    inconvenience.
+  - 🔴 **MFD page**  : Changing settings from the MFD page is not supported.
