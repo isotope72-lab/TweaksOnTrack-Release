@@ -7,7 +7,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Tweaks_On_Track_Git_hub_white.png">
-    <source media="(prefers-color-scheme: light)" srcset="TweaksOnTrack_icon_black.png">
+    <source media="(prefers-color-scheme: light)" srcset="TweaksOnTrack_Git_hub_black.png">
     <img src="TweaksOnTrack_icon_black.png" alt="Logo" height="172" align="center">
   </picture>
   
