@@ -34,7 +34,7 @@ This plugin allows simhub to simulate the 10 differents types of data for Le Man
 
 ## 📥 Installation
 
-1. Download TweaksOnTrack_1.0.0.zip
+1. Download TweaksOnTrack_1.x.x.zip
 2. Extract TweaksOnTrack.dll
 3. Copy the DLL file and the Languages folder to SimHub/ folder
 4. Restart SimHub
