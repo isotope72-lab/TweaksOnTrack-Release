@@ -1,5 +1,9 @@
 # Tweaks On Track Changelog
 
+## 1.0.2 - 2026-03-15
+
+ - Add new Features, now you have the virtual energy and fuel infos
+
 ## 1.0.1 - 2026-03-14
 
  - Correction to the translation of the properties
