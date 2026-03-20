@@ -2,6 +2,11 @@
 
 ## 1.0.4 - 2026-03-20
 
+ - Add update checker translation
+
+
+## 1.0.4 - 2026-03-20
+
  - Add update checker (in dev)
 
 ## 1.0.3 - 2026-03-17
