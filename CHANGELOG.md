@@ -1,6 +1,6 @@
 # Tweaks On Track Changelog
 
-## 1.0.4 - 2026-03-20
+## 1.0.5 - 2026-03-20
 
  - Add update checker translation
 
