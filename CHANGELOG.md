@@ -1,5 +1,11 @@
 # Tweaks On Track Changelog
 
+## 1.0.6 - 2026-03-21
+
+ - Ui page changes
+ - Methode update checker correction
+ - Update checker validation
+
 ## 1.0.5 - 2026-03-20
 
  - Add update checker translation
